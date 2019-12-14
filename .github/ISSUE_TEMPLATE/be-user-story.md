@@ -1,9 +1,9 @@
 ---
-Name: BE User Stories
-About: Use this template for BE User Stories.
-Title: "BE User Story: [FEATURE NAME]"
-Labels: be-user-story
-Assignees: hsmitha26 leiyakenney
+name: BE User Stories
+about: Use this template for BE User Stories.
+title: "BE User Story: [FEATURE NAME]"
+labels: be-user-story
+assignees: hsmitha26 leiyakenney
 ---
 
 - [ ] **Endpoint:**
