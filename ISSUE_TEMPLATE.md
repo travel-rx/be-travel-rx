@@ -1,19 +1,19 @@
 - [ ] **Endpoint:**
 
-- [ ] **Request body: **
+- [ ] **Request body:**
 ```
 Enter request body here
 ```
-- [ ] **Example successful response: **
+- [ ] **Example successful response:**
 ```
 Enter response here
 ```
-- [ ] **Example unsuccessful response: **
+- [ ] **Example unsuccessful response:**
 ```
 Enter unsuccessful response(s) error message here
 ```
 - [ ] **Edge Case #1**
 
-* **Resources: **
+* **Resources:**
 
-* **Timebox: **
+* **Timebox:**
