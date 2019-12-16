@@ -1,0 +1,4 @@
+test:
+  adapter: postgresql
+  database: be-travel-rx_test
+  username: postgres
