@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+  - 2.4.1
+services:
+- postgresql
+
+script:
+- bundle exec rails db:reset db:setup db:migrate RAINS_ENV=test
+- bundle exec rspec
+
+before_script:
+  - psql -c 'create database travelrx_test;' -U postgres
+  - cp config/database.yml.travis config/database.yml
