@@ -1,24 +1,18 @@
-# README
+# Travel Rx
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Helping users manage their medication dosages while traveling across time zones.
 
-Things you may want to cover:
+## Travel Rx - Backend
 
-* Ruby version
+### Tech Stack:
+Ruby on Rails
+RSpec
 
-* System dependencies
+## Contributors:
+#### Backend Engineers:
+[Leiya Kenney](https://github.com/leiyakenney)
+[Smitha Hosmani](https://github.com/hsmitha26)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### Frontend Engineers:
+[Amy Rippeto](https://github.com/aripp2)
+[Jeannie Evans](https://github.com/jmevans0211)
