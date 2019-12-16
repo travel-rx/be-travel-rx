@@ -5,6 +5,7 @@ title: "BE User Story: [FEATURE NAME]"
 labels: be-user-story
 assignees: hsmitha26 leiyakenney
 ---
+- [ ] **Summary:**
 
 - [ ] **Endpoint:**
 
@@ -17,10 +18,10 @@ Enter request body here
 Enter response here
 ```
 - [ ] **Example unsuccessful response:**
+- [ ] **Edge Case 1:** Describe edge case scenario
 ```
-Enter unsuccessful response(s) error message here
+Enter unsuccessful response error message here
 ```
-- [ ] **Edge Case #1**
 
 * **Resources:**
 
