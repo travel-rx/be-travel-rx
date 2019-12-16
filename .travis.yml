@@ -5,7 +5,7 @@ services:
 - postgresql
 
 script:
-- bundle exec rails db:reset db:setup db:migrate RAINS_ENV=test
+# - bundle exec rails db:reset db:setup db:migrate RAINS_ENV=test
 - bundle exec rspec
 
 before_script:
