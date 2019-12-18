@@ -9,7 +9,7 @@ Ruby on Rails
 RSpec
 
 ### Schema:
-![Database Schema](https://user-images.githubusercontent.com/45922590/70955213-4a46ea00-202d-11ea-8ae4-f6f1544a2fc0.png)
+![Database Schema](https://user-images.githubusercontent.com/45922590/71044601-53988b00-20ef-11ea-9f6d-84cdc4d071e5.png)
 
 ## Contributors:
 #### Backend Engineers:
